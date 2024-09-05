@@ -1,5 +1,20 @@
-## Next.js App Router Course - Starter
+# nextjs-dashboard
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+A web application built with Next.js 14.
 
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+## Getting Started
+
+Follow the steps below to set up and run the project locally.
+
+### Prerequisites
+
+- Node.js (version 16.8.0 or higher)
+- npm or yarn (optional)
+
+### Installation
+
+After cloning the repository:
+
+```bash
+git clone https://github.com/username/nextjs-dashboard.git
+cd nextjs-dashboard
